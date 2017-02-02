@@ -1,3 +1,6 @@
+---
+output: pdf_document
+---
 Red wine quality exploratory data analysis
 ========================================================
 This analysis explores the relationship between concentration of chemicals and the quality of red wine.
